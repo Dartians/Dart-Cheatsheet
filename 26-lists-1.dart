@@ -4,6 +4,9 @@ void main() {
   // Create a list
   var names = ["Amir", "Ana", "Ali", "Nilo"];
 
+  // Change one
+  names[3] = "Hossein";
+
   // Get lenght of a list
   var len = names.length;
 
