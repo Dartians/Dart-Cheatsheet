@@ -1,4 +1,5 @@
 // Class | Season 2
+// Inititalizer
 
 // Initialize with pars
 class BankAccount {

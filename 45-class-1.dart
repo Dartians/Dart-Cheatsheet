@@ -1,4 +1,5 @@
 // Class | Season 1
+// Create class and a var
 
 // Create a class
 class BankAccount {
