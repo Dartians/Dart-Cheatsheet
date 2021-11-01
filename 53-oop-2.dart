@@ -1,3 +1,6 @@
+// Object Oriented 2
+// Super
+
 // Init a class
 class Human {
   const Human({

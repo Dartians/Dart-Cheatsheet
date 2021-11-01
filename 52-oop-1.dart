@@ -1,3 +1,6 @@
+// Object Oriented 1
+// Extends
+
 // Init a class
 class Human {
   // Setup some voids
