@@ -1,0 +1,14 @@
+
+name: learn
+# version: 1.0.0
+description: Learn Dart
+homepage: https://github.com/Dartians/Dart-Cheatsheet
+documentation: https://github.com/Dartians/Dart-Cheatsheet
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
+  test: '^1.9.0'
