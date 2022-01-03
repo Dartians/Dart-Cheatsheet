@@ -42,7 +42,7 @@ You can contribute on this project by **adding new stuff**, **editing** and othe
 Anyway, if you have any question, tell me about it.
 
 - Telegram: [@BlackIQ](https://t.me/BlackIQ)
-- Telegram: [me@blackiq.ir](me@blackiq.ir)
+- Email: [me@blackiq.ir](me@blackiq.ir)
 
 ### License
 
