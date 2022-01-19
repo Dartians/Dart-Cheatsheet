@@ -15,9 +15,10 @@ void main(List<String> arguments) {
   // Create a variable for file
   final file = File(inputFile);
 
-  // Read all lines
+  /// Read all lines
+  /// Return type is List<String>
   final lines = file.readAsLinesSync();
 
-  // Print lines
+  // Print lines, a list
   print(lines);
 }

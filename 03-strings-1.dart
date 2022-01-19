@@ -12,6 +12,7 @@ void main() {
   // print("Dir is: \home\user\Downloads"); This is wrong.
   print("Dir is: \\home\\user\\Downloads"); // Now it prints \
 
-  // Print with out details of special chars
+  /// Print with out details of special chars
+  /// Also called a "raw" string
   print(r"The home worth $1500000."); // Now, $ is not as a variable
 }

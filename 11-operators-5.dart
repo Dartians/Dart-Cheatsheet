@@ -10,5 +10,7 @@ void main() {
 
   // In line conditions
   int age = 16;
+  /// Here, if age is greater than 18 then type is "adult"
+  /// else it's "child"
   String type = age > 18 ? "adult" : "child";
 }
