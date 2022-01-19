@@ -1,10 +1,17 @@
-// Std | Input, Output
+// Std | Input, Output, Error
 
-import 'dart:io';
+/// This imports all the io stuffs as the variable "io"...
+import 'dart:io' as io;
 
 void main() {
-  stdout.write("What is your name? ");
-  final name = stdin.readLineSync();
+  // "write" does not add a "\n" to the end of the statement.
+  io.stdout.write('What is your name : ');
+  try {
+    final name = io.stdin.readLineSync();
+  } catch (error) {
+    // "writeln" does add a "\n" to the end.
+    io.stderr.writeln(error);
+  }
 
-  print("Welcome $name");
+  print('Welcome $name');
 }
