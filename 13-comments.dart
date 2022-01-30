@@ -8,6 +8,6 @@ void main() {
   // print("Hi"); // This code wont be executed
 
   /*
-    This is multi lines comment
+    This is multi-line comment
   */
 }

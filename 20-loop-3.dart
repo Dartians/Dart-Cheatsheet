@@ -12,4 +12,10 @@ void main() {
       continue;
     }
   }
+
+  /// An Ever better and easier way of 'for' loop exists
+  List<dynamic> aBasicList = [0, 1, 2, 3, 'a', 'b', 'c', 'd'];
+  for (dynamic i in aBasicList) {
+    print(i);
+  }
 }
